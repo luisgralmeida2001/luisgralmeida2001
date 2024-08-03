@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a Data Science student with experience in Python, SQL, R, Power BI, and Excel. I have a strong interest in Data Engineering and am currently learning Airflow, Git, and DBT. Alongside my academic studies, I engage in scientific research and participate in hackathons, which helps me apply and expand my skills through real-world projects.
+I'm a Data Science student with experience in Python, SQL, R, Power BI, and Excel. I have a strong interest in Data Engineering and I'm currently learning Airflow, Git, and DBT. Alongside my academic studies, I engage in scientific research and participate in hackathons, which helps me apply and expand my skills through real-world projects.
 
 ## 🛠️ Skills
 
