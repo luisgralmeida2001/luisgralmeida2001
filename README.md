@@ -2,45 +2,38 @@
 
 ## About Me
 
-I'm a Data Science student with experience in Python, SQL, R, Power BI, and Excel. I have a strong interest in Data Engineering and I'm currently learning Airflow, Git, and DBT. Alongside my academic studies, I engage in scientific research and participate in hackathons, which helps me apply and expand my skills through real-world projects.
+I'm a Data Science student at FAE Business School with a strong focus on Data Engineering. I have practical experience with data pipelines, orchestration, and modeling using technologies such as Airflow, dbt, Python, SQL, and Git. I actively participate in scientific research and hackathons, applying data solutions to real-world challenges.
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, SQL, R
-- **Tools and Technologies**: Power BI, Excel
-- **Current Learning**: Airflow, Git, DBT
+- **Programming Languages:** Python, SQL, R
+- **Data Tools:** dbt, Airflow, Power BI, Excel
+- **Version Control:** Git & GitHub
+- **Cloud & Big Data:** AWS, Databricks, Spark
+- **Currently Improving:** Data orchestration, cloud data solutions
 
 ## 🚀 Recent Projects
 
-### Scientific Research
-- **Description**: Academic project focused on Digital Active Methodologies in the area of ​​Mathematics in Higher Education.
+- **Scientific Research:** Academic study on the impact of Digital Active Methodologies in Mathematics Education for Higher Education.
+- **Hackathons:** Multiple-time winner in data-related competitions hosted by my institution.
+- **Ecommerce Data Pipeline:** A data engineering pipeline using Airflow, dbt, DuckDB, and Python to extract, transform, and model ecommerce data.
 
-### Hackathons
-- **Description**: Winner of competitions held at my educational institution
+## 🌱 Learning & Development
 
-## 🌱 Currently Learning
-
-- **Airflow**: I am learning how to design and manage complex workflows using Apache Airflow. This includes creating Directed Acyclic Graphs (DAGs), scheduling tasks, and monitoring workflows. I am also focusing on integrating Airflow with various data sources and other tools to streamline data processing pipelines.
-- **Git**: I am gaining proficiency in version control using Git. This involves understanding branching, merging, and resolving conflicts. I am also learning best practices for commit messages, managing repositories, and collaborating with others through platforms like GitHub.
-- **DBT**: I am exploring how to use DBT (Data Build Tool) for transforming and modeling data in SQL. This includes writing and testing SQL models, managing data transformations, and using DBT's features for documentation and testing. I am also focusing on integrating DBT with data warehouses and orchestrating data workflows.
+- **Apache Airflow:** Designing and managing complex data workflows.
+- **dbt (Data Build Tool):** Building robust data models and transformations in SQL.
 
 ## 📚 Education
 
-- **Scientific Research** - FAE Business School
-- **Certifications**: Python, SQL, Power BI, Looker Studio
-- **Recognition**: Best Student of the Second Semester of 2024
+- **Bachelor's Degree:** Data Science - FAE Business School
+- **Certifications:** Python, SQL, Power BI, Looker Studio
+- **Awards:** Best Student of the Second Semester 2024
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-- **LinkedIn**: www.linkedin.com/in/luís-ribeiro-almeida
-- **Email**: luisgralmeida2001@gmail.com
+- **LinkedIn:** [linkedin.com/in/luís-ribeiro-almeida](https://www.linkedin.com/in/lu%C3%ADs-ribeiro-almeida)
+- **Email:** luisgralmeida2001@gmail.com
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-Feel free to reach out, collaborate on projects, or just chat about Data Science and Data Engineering.
-
-
-<!---
-luisgralmeida2001/luisgralmeida2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm open to collaboration, networking, and discussing ideas in Data Engineering, Analytics, and Science. Let's build something impactful together!
