@@ -27,7 +27,7 @@ I'm a Data Science student at FAE Business School with a strong focus on Data En
 
 - **Bachelor's Degree:** Data Science - FAE Business School
 - **Certifications:** Python, SQL, Power BI, Looker Studio
-- **Awards:** Best Student of the Second Semester 2024
+- **Awards:** Best Student of the First Semester 2023, Best Student of the Second Semester 2023, Best Student of the First Semester 2024 
 
 ## 📫 Contact
 
